@@ -9,3 +9,5 @@ const Juser={
 console.log(Juser);
 console.log(Juser.email);
 console.log(Juser["age"]);
+Juser.location="balasore"
+console.log(Juser);
