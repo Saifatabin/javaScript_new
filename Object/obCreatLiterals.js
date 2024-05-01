@@ -7,3 +7,5 @@ const Juser={
     lastLogInDays:["monday","saturday"],
     }
 console.log(Juser);
+console.log(Juser.email);
+console.log(Juser["age"]);
