@@ -6,3 +6,6 @@ const ob1={a:"apple",b:"bat"}
 const ob2={c:"catch",d:"dot"}
 const ob3={...ob1,...ob2}
 console.log(ob3)
+console.log(Object.keys(ob3))
+console.log(Object.values(ob3))
+console.log(Object.entries(ob3))
