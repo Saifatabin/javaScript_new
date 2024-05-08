@@ -20,3 +20,4 @@ Juser.greetingTwo = function() {
 }
 
 Juser.greetingTwo();
+Object.freeze(Juser);
