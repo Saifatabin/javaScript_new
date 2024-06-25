@@ -4,3 +4,4 @@ console.log(array2);
 console.log(array.slice(2))
 console.log(array.slice(-2))
 console.log(array.slice(1,-1))
+//provides only selected items
